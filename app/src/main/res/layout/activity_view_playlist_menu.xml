@@ -14,115 +14,125 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Browse"
+
         android:textColor="@color/colorWhite"
         android:id="@+id/textBrowse"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true" />
 
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
-        android:weightSum="1">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView2"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp">
 
-        <ImageButton
-
+        <LinearLayout
+            android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:text="INDIE"
-            android:id="@+id/indie"
-            android:textColor="#fbf3f3"
-            android:textStyle="bold|normal|italic"
-            android:typeface="monospace"
-            android:background="#ff662a"
+            android:layout_height="match_parent"
             android:layout_alignParentTop="true"
             android:layout_alignParentStart="true"
-            android:layout_weight="0.1667"
-            android:onClick="YTActivity.indie"
-            android:src="@drawable/indie2"
-            android:scaleType="fitXY"/>
+            android:weightSum="1">
+
+            <ImageButton
+
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:text="INDIE"
+                android:id="@+id/indie"
+                android:textColor="#fbf3f3"
+                android:textStyle="bold|normal|italic"
+                android:typeface="monospace"
+                android:background="#ff662a"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true"
+                android:layout_weight="0.1667"
+                android:onClick="YTActivity.indie"
+                android:src="@drawable/indie2"
+                android:scaleType="fitXY"/>
 
 
 
-        <ImageButton
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:text="ROCK"
-            android:id="@+id/rock"
-            android:textColor="#fbf3f3"
-            android:textStyle="bold|normal|italic"
-            android:typeface="monospace"
-            android:background="#ff662a"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentEnd="true"
-            android:layout_weight="0.1667"
-            android:src="@drawable/classical2"
-            android:scaleType="fitXY"/>
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:text="rock2"
+                android:id="@+id/rock"
+                android:textColor="#fbf3f3"
+                android:textStyle="bold|normal|italic"
+                android:typeface="monospace"
+                android:background="#ff662a"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_weight="0.1667"
+                android:src="@drawable/classical2"
+                android:scaleType="fitXY"/>
 
-        <ImageButton
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:text="HIP HOP"
-            android:id="@+id/hiphop"
-            android:textColor="#fbf3f3"
-            android:textStyle="bold|normal|italic"
-            android:typeface="monospace"
-            android:background="#ff662a"
-            android:layout_centerVertical="true"
-            android:layout_alignParentStart="true"
-            android:layout_weight="0.1667"
-            android:src="@drawable/drake2"
-            android:scaleType="fitXY"/>
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:text="HIP HOP"
+                android:id="@+id/hiphop"
+                android:textColor="#fbf3f3"
+                android:textStyle="bold|normal|italic"
+                android:typeface="monospace"
+                android:background="#ff662a"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true"
+                android:layout_weight="0.1667"
+                android:src="@drawable/drake2"
+                android:scaleType="fitXY"/>
 
-        <ImageButton
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:text="ELECTRONIC"
-            android:id="@+id/electronic"
-            android:textColor="#fbf3f3"
-            android:textStyle="bold|normal|italic"
-            android:typeface="monospace"
-            android:background="#ff662a"
-            android:layout_weight="0.1667"
-            android:layout_alignParentBottom="true"
-            android:layout_alignParentEnd="true"
-            android:src="@drawable/rave"
-            android:scaleType="fitXY"/>
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:text="ELECTRONIC"
+                android:id="@+id/electronic"
+                android:textColor="#fbf3f3"
+                android:textStyle="bold|normal|italic"
+                android:typeface="monospace"
+                android:background="#ff662a"
+                android:layout_weight="0.1667"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/rave"
+                android:scaleType="fitXY"/>
 
-        <ImageButton
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:text="COUNTRY"
-            android:id="@+id/country"
-            android:textColor="#fbf3f3"
-            android:textStyle="bold|normal|italic"
-            android:typeface="monospace"
-            android:background="#ff662a"
-            android:layout_alignParentBottom="true"
-            android:layout_alignParentStart="true"
-            android:layout_weight="0.1667"
-            android:src="@drawable/country2"
-            android:scaleType="fitXY"/>
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:text="COUNTRY"
+                android:id="@+id/country"
+                android:textColor="#fbf3f3"
+                android:textStyle="bold|normal|italic"
+                android:typeface="monospace"
+                android:background="#ff662a"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+                android:layout_weight="0.1667"
+                android:src="@drawable/country2"
+                android:scaleType="fitXY"/>
 
-        <ImageButton
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:text="POP"
-            android:id="@+id/pop"
-            android:textColor="#fbf3f3"
-            android:textStyle="bold|normal|italic"
-            android:typeface="monospace"
-            android:background="#ff662a"
-            android:layout_alignTop="@+id/hiphop"
-            android:layout_alignParentEnd="true"
-            android:layout_weight="0.1667"
-            android:src="@drawable/pop2"
-            android:scaleType="fitXY"/>
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:text="POP"
+                android:id="@+id/pop"
+                android:textColor="#fbf3f3"
+                android:textStyle="bold|normal|italic"
+                android:typeface="monospace"
+                android:background="#ff662a"
+                android:layout_alignTop="@+id/hiphop"
+                android:layout_alignParentEnd="true"
+                android:layout_weight="0.1667"
+                android:src="@drawable/pop2"
+                android:scaleType="fitXY"/><![CDATA[
+
             />
-    </LinearLayout>
+        ]]>
+        </LinearLayout>
+    </ScrollView>
 
 
 </RelativeLayout>

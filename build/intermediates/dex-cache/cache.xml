@@ -1,3 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="76bd232dbc1327021eca22be857160a55fc832be">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c45f427d842c28a544b1c5abae25c4a40784db69\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_007e8474463fce7447ae459093fd4519eb453142\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_8e90fe0fc3c4713a1658706e28a16233583d528e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_bd2aa32726440456295841df84e0c76b9e5fcb47\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_800e791d77a14a945755f7300ba8542eed70609c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_8a9b5aa42c04ffcb4596300c65d9e72fa0ac39ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_c379d5e4bd30ed523775ca0156636b0a127af5ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_50bc3a581fd02a8242ec738bf0d540e1d0d2ca9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_392b4598841a5c68d531b142703355f32e448273\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d751f84cc515ba3a2684dd6e2430766bcc69ae2b">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f28ae58a026c90db92688c62a36b2f44e7a85b04\classes.dex" />
+    </item>
+    <item
+        jar="C:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_6685c4a0673be895c530b19f22bb6224230f48c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_925f35a400a27c78798b71e1880520ce90234e23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\amna\Documents\GitHub\MusicQ_phase3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_41db15bb540d3121c33c548f88b75eb6a325205d\classes.dex" />
+    </item>
+
+</items>
