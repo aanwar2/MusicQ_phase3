@@ -19,7 +19,8 @@ import com.google.android.youtube.player.YouTubePlayer;
 import com.google.android.youtube.player.YouTubePlayer.Provider;
 import com.google.android.youtube.player.YouTubePlayerView;
 import com.google.android.youtube.player.YouTubeThumbnailView;
-
+//FOR VICTOR:
+//Import changed due to package name difference from yours and the group.
 import static com.group6.mobileappdev.musicq_phase1.R.string.*;
 
 public class YoutubePlayer extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
